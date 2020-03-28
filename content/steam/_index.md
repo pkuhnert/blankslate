@@ -2,6 +2,6 @@
 header:
   caption: ""
   image: ""
-title: Recent & Upcoming Talks
-view: 0
+title: STEAM Resources
+view: 4
 ---

@@ -2,18 +2,17 @@
 authors:
 - admin
 bio: My research interests include statistics, Bayesian Hierarchical Modelling, visualisation, environmental and agricultural modelling.
-  matter.
 education:
   courses:
   - course: PhD in Statistics
     institution: Queensland University of Technology
-    year: 2012
+    year: 2003
   - course: Honours (First Class) Mathematics
     institution: Queensland University of Technology
-    year: 2009
+    year: 1994
   - course: BAppSc Mathematics
     institution: Queensland University of Technology
-    year: 2008
+    year: 1993
 email: "Petra.Kuhnert@data61.csiro.au"
 interests:
 - Statistics
@@ -23,7 +22,7 @@ interests:
 - R-Ladies
 name: Petra Kuhnert
 organizations:
-- name: CSIRO Data61
+- name: CSIRO's Data61
   url: "https://people.csiro.au/K/P/Petra-Kuhnert"
 role: Research Statistician
 social:
@@ -47,6 +46,8 @@ user_groups:
 
 I am a Data Scientist in CSIRO's Data61 and lead the Hybrid Prediction Activity in CSIRO's Machine Learning and Artificial Intelligence Future Science Platform (MLAI FSP). 
 
-I have a PhD in applied statistics, focussing more recently on quantifying and communicating uncertainty to decision-makers, the development of non-linear space-time analytics that utilises machine learning algorithms for environmental problems, and developing emulation approaches for speeding up slow running process models.
+I have a PhD in applied statistics, focussing on quantifying and communicating uncertainty to decision-makers, the development of non-linear space-time analytics that utilises machine learning algorithms for environmental problems, and developing emulation approaches for speeding up slow running process models.
 
-I am part of the STEM professionals in schools program and enjoy interacting with schools to get students interested in mathematics, statistics and computing.
+I really enjoy creating new visualisations to explore and understand data. I think visualisation is the key to understanding complex data and can lead to more trusted datasets and analyses.
+
+I am part of the STEM professionals in schools program and enjoy interacting with schools to get students interested in mathematics, statistics and computing. 
